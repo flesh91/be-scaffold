@@ -24,7 +24,7 @@
     ],
     "author": "Diia",
     "dependencies": {
-        "@diia-inhouse/types": "6.35.2",
+        "@diia-inhouse/types": "10.0.10",
         "chalk": "4.1.2",
         "enquirer": "2.4.1",
         "execa": "5.1.1",
